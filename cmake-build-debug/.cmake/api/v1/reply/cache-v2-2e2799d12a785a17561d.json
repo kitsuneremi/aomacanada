@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/fpt/C/cmake-build-debug"
+			"value" : "d:/fpt/github/aomacanada/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/fpt/C"
+			"value" : "D:/fpt/github/aomacanada"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/fpt/C/cmake-build-debug"
+			"value" : "D:/fpt/github/aomacanada/cmake-build-debug"
 		},
 		{
 			"name" : "C_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/fpt/C"
+			"value" : "D:/fpt/github/aomacanada"
 		}
 	],
 	"kind" : "cache",

@@ -767,8 +767,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/fpt/C/cmake-build-debug",
-		"source" : "D:/fpt/C"
+		"build" : "D:/fpt/github/aomacanada/cmake-build-debug",
+		"source" : "D:/fpt/github/aomacanada"
 	},
 	"version" : 
 	{
